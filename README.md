@@ -13,6 +13,8 @@
  - State
    - Ferp
    - Mobx
+   - Redux
+   - Redux Saga
    - Custom
  - Vanilla es6
  - Jest
